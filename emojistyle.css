@@ -8,7 +8,7 @@ body{
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: brown;
+  background: #964B00;
 }
 .face{
   position: relative;
@@ -61,5 +61,8 @@ body{
   width: 40px;
   height: 40px;
   background: #333;
+/* another good option for bg text
+  background: #800000
+  */
   border-radius: 50%;
 }
